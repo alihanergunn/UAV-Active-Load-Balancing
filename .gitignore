@@ -1,0 +1,11 @@
+# MATLAB/Simulink generated files
+slprj/
+**/slprj/
+*.slxc
+*.asv
+*.m~
+
+# Editor and operating-system files
+.DS_Store
+Thumbs.db
+desktop.ini
